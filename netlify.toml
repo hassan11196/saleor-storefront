@@ -29,7 +29,7 @@
   status = 200
 
 [template.environment]
-  API_URI = https://top-pro.herokuapp.com/graphql/
+  API_URI = "https://top-pro.herokuapp.com/graphql/"
   
 
 
